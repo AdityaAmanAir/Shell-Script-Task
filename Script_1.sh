@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: ADITYA AMAN | Course: Open Source Software | Reg No. : 24BAI10129
+# Author: ADITYA AMAN | Course: Open Source Software | Reg No. : 24BAI10129 |VIT B
 
 # --- Variables ---
 STUDENT_NAME="ADITYA AMAN" 

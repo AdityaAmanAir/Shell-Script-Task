@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 3: Disk and Permission Auditor
-# Author: ADITYA AMAN | Course: Open Source Software | Reg No. : 24BAI10129
+# Author: ADITYA AMAN | Course: Open Source Software | Reg No. : 24BAI10129 |VIT B
 
 DIRS=("/etc" "/var/log" "/home" "/usr/bin" "/tmp")
 echo "Directory Audit Report"

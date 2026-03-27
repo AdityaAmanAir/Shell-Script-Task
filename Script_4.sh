@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 4: Log File Analyzer
-# Author: ADITYA AMAN | Course: Open Source Software | Reg No. : 24BAI10129
+# Author: ADITYA AMAN | Course: Open Source Software | Reg No. : 24BAI10129 |VIT B
 # Usage: ./log_analyzer.sh /var/log/messages
 
 LOGFILE=$1

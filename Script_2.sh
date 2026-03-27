@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector
-# Author: ADITYA AMAN | Course: Open Source Software | Reg No. : 24BAI10129
+# Author: ADITYA AMAN | Course: Open Source Software | Reg No. : 24BAI10129 |VIT B
 
 PACKAGE="firefox" # e.g. httpd, mysql, vlc, firefox
 # Check if package is installed

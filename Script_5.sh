@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 5: Open Source Manifesto Generator
-# Author: ADITYA AMAN | Course: Open Source Software | Reg No. : 24BAI10129
+# Author: ADITYA AMAN | Course: Open Source Software | Reg No. : 24BAI10129 |VIT B
 
 echo "Answer three questions to generate your manifesto."
 echo ""
